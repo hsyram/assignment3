@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_denied">So this application is useless for you :(</string>
+    <string name="permission_explanation_dialog">We need your location for showing it on the map.</string>
+    <string name="permission_explanation_title">Permission Description</string>
+    <string name="ok">OK</string>
+    <string name="cancel">No, Thanks!</string>
+    <string name="gps_disable">GPS is disabled in your device. Would you like to enable it?</string>
+    <string name="enable">Enable</string>
+</resources>

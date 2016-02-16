@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="OSRM Routing Engine" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 gpx.xsd">
+   <wpt lat="52.077122" lon="4.335881" />
+      <wpt lat="52.077050" lon="4.335963" />
+      <wpt lat="52.076481" lon="4.336591" />
+      <wpt lat="52.075778" lon="4.337350" />
+      <wpt lat="52.075105" lon="4.338200" />
+      <wpt lat="52.074664" lon="4.338839" />
+      <wpt lat="52.074274" lon="4.339517" />
+      <wpt lat="52.073997" lon="4.340101" />
+      <wpt lat="52.073962" lon="4.340258" />
+      <wpt lat="52.073708" lon="4.340803" />
+      <wpt lat="52.073436" lon="4.341396" />
+      <wpt lat="52.073041" lon="4.342326" />
+      <wpt lat="52.072528" lon="4.343625" />
+      <wpt lat="52.071962" lon="4.345070" />
+      <wpt lat="52.071599" lon="4.346038" />
+      <wpt lat="52.071234" lon="4.347067" />
+      <wpt lat="52.070809" lon="4.348206" />
+      <wpt lat="52.070335" lon="4.349492" />
+      <wpt lat="52.069745" lon="4.351118" />
+      <wpt lat="52.069192" lon="4.352653" />
+      <wpt lat="52.068487" lon="4.354804" />
+      <wpt lat="52.067959" lon="4.356398" />
+      <wpt lat="52.067502" lon="4.357698" />
+      <wpt lat="52.066286" lon="4.360993" />
+      <wpt lat="52.066039" lon="4.361642" />
+      <wpt lat="52.065404" lon="4.363484" />
+      <wpt lat="52.064965" lon="4.364755" />
+      <wpt lat="52.064291" lon="4.366692" />
+      <wpt lat="52.064076" lon="4.367310" />
+      <wpt lat="52.063867" lon="4.367858" />
+      <wpt lat="52.063643" lon="4.368535" />
+      <wpt lat="52.063183" lon="4.370047" />
+      <wpt lat="52.062936" lon="4.370782" />
+      <wpt lat="52.062912" lon="4.370865" />
+</gpx>
